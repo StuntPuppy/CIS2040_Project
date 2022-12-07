@@ -15,7 +15,7 @@ ZIP_CODE CHAR (5)
 
 INSERT INTO CONTACTS VALUES(5, '303','6789808','electronicsfan@gmail.com', '513 S 5th St', 'Lakewood', 'CO', '80232'); 
 INSERT INTO CONTACTS VALUES(6, '720','6789808','catlover@gmail.com', '2100 S Sequel St', 'Denver', 'CO', 80227); 
-INSERT INTO CONTACTS VALUES(7, '303','6799801','johnsmith@aol.com', '1670 S Yes St', 'Denver', 'CO,', '80223'); 
+INSERT INTO CONTACTS VALUES(7, '303','6799801','johnsmith@aol.com', '1670 S Yes St', 'Denver', 'CO', '80223'); 
 INSERT INTO CONTACTS VALUES(8, '999','9999999','taxi@yahoo.com', '999 W West Dr', 'Aurora', 'CO', '80227'); 
 INSERT INTO CONTACTS VALUES(9, '111','9017860','areacodehaver@rocketmail.com', '1890 W Alabama Dr', 'Denver', 'CO', '80227');
  
