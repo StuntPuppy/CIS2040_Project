@@ -1,3 +1,13 @@
+/*
+TEAM ONE
+Jayson Render
+Joey Work
+Zane Chavez
+Natalie Gotham
+CIS 2040
+Circus City Sample Queries
+*/
+
 USE CIRCUS_CITY;
 
 -- Query to find all customers in Lakewood and Denver
