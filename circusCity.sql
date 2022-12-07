@@ -1,3 +1,13 @@
+/*
+TEAM ONE
+Jayson Render
+Joey Work
+Zane Chavez
+Natalie Gotham
+CIS 2040
+Circus City Schema Creation
+*/
+
 CREATE SCHEMA IF NOT EXISTS circus_city;
 USE circus_city; 
 
